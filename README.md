@@ -9,3 +9,4 @@ employee information
 	-UPDATE seniority level reach time, multiplier number
 
 'uvicorn main:app' in console
+http://127.0.0.1:8000/docs
